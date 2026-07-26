@@ -109,6 +109,3 @@ To transform seasonal shopping into an AI-powered predictive experience by provi
 
 ---
 
-## 👩‍💻 Developed By
-
-**Bhavani Sabhavatu**
