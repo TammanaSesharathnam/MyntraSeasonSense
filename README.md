@@ -1,83 +1,114 @@
-🛍️ Myntra SeasonSense
-📖 Overview
+# 🛍️ Myntra SeasonSense
 
-Myntra SeasonSense is an AI-powered seasonal shopping platform designed to help users purchase seasonal products before demand peaks. Instead of waiting until the season starts, the platform predicts upcoming seasonal needs using weather trends and AI recommendations, enabling users to access pre-season offers, smart discounts, and personalized product suggestions. This approach helps customers save money, avoid stock shortages, and make smarter shopping decisions.
+## 📖 Overview
 
-🚀 Key Features
-🌦️ AI Seasonal Prediction Dashboard for forecasting upcoming seasonal demand.
-👕 Personalized Product Recommendations based on season and user preferences.
-💰 Smart Choice Savings (USP) with three AI-powered discount options:
-Option A: Instant Discount
-Option B: Weather Combo Offer
-Option C: Premium AI Bundle
-🎯 AI Bundle Builder for creating complete matching outfits.
-🔒 Price Lock feature to reserve current prices before seasonal price hikes.
-📅 Seasonal Readiness recommendations to prepare users in advance.
-🔔 Smart Notifications for seasonal alerts, price drops, and personalized offers.
-📊 Admin Dashboard with real-time analytics, product management, and campaign creation.
-📈 Analytics Dashboard showing sales, seasonal demand, AI accuracy, and revenue trends.
-🛒 Secure Checkout with order confirmation.
-📜 Order History & Invoice management.
-🛠️ Tech Stack
-Frontend
-React.js
-HTML5
-CSS3
-JavaScript
-React Router
-Axios
-Framer Motion
-React Icons
-Backend
-Node.js
-Express.js
-Database
-MongoDB
-AI & Machine Learning
-Python
-Weather-based Prediction Logic
-AI Recommendation Engine
-APIs
-OpenWeather API
-REST APIs
-Tools
-Git
-GitHub
-VS Code
-npm
-🌟 Unique Selling Point (USP)
+Myntra SeasonSense is an AI-powered seasonal shopping platform designed to help users purchase seasonal products **before demand peaks**. Instead of waiting until the season starts, the platform predicts upcoming seasonal needs using weather trends and AI recommendations. This enables users to access pre-season offers, smart discounts, and personalized product suggestions, helping them save money and shop smarter.
 
-Unlike traditional e-commerce platforms that recommend products based only on current trends, Myntra SeasonSense predicts users' future seasonal needs and provides three intelligent savings options:
+---
 
-Option A: Buy now with an instant discount.
-Option B: Save more with weather-based combo offers.
-Option C: Get a complete AI-curated outfit bundle at the best value.
+## 🚀 Key Features
 
-This enables users to shop early, save more, and stay prepared before seasonal demand increases.
+- 🌦️ AI Seasonal Prediction Dashboard
+- 👕 Personalized Product Recommendations
+- 💰 Smart Choice Savings (USP)
+  - Option A: Instant Discount
+  - Option B: Weather Combo Offer
+  - Option C: Premium AI Bundle
+- 🎯 AI Bundle Builder
+- 🔒 Price Lock Feature
+- 📅 Seasonal Readiness Recommendations
+- 🔔 Smart Notifications
+- 📊 Admin Dashboard
+- 📈 Analytics Dashboard
+- 🛒 Secure Checkout
+- 📄 Order History & Invoice
 
-📸 Modules
-Home Page
-Login & Profile
-AI Prediction Dashboard
-Product Recommendation
-Smart Choice Savings
-AI Bundle Builder
-Price Lock
-Seasonal Readiness
-Smart Notifications
-Admin Dashboard
-Analytics Dashboard
-Checkout
-Success Page
-Order History & Invoice
-🎯 Project Goal
+---
 
-To transform seasonal shopping from a reactive experience into a predictive AI-powered experience, helping users save money, avoid last-minute purchases, and receive personalized recommendations before the season begins.
+## 🛠️ Tech Stack
 
-📌 Future Enhancements
-AI chatbot for shopping assistance.
-Voice-based product search.
-AR virtual try-on for outfits.
-Personalized fashion calendar.
-Multi-language support.
-Advanced demand forecasting using deep learning.
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+- React Router
+- Axios
+- Framer Motion
+- React Icons
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### AI & Machine Learning
+- Python
+- Weather-based Prediction Logic
+- AI Recommendation Engine
+
+### APIs
+- OpenWeather API
+- REST APIs
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- npm
+
+---
+
+## ⭐ Unique Selling Point (USP)
+
+Unlike traditional e-commerce platforms, **Myntra SeasonSense** predicts future seasonal shopping needs and offers **three intelligent saving options**:
+
+- ✅ **Option A:** Instant Discount
+- ✅ **Option B:** Weather-Based Combo Offer
+- ✅ **Option C:** Premium AI Bundle with a complete outfit
+
+This allows users to shop early, save more, and avoid seasonal price hikes.
+
+---
+
+## 📂 Modules
+
+- Home Page
+- Login & Profile
+- AI Prediction Dashboard
+- Product Recommendation
+- Smart Choice Savings
+- AI Bundle Builder
+- Price Lock
+- Seasonal Readiness
+- Smart Notifications
+- Admin Dashboard
+- Analytics Dashboard
+- Checkout
+- Order Confirmation
+- Order History & Invoice
+
+---
+
+## 🎯 Project Goal
+
+To transform seasonal shopping into an AI-powered predictive experience by providing early recommendations, personalized offers, and smart savings before the season begins.
+
+---
+
+## 🔮 Future Enhancements
+
+- 🤖 AI Shopping Assistant
+- 🎤 Voice-Based Product Search
+- 🥽 AR Virtual Try-On
+- 📅 Personalized Fashion Calendar
+- 🌐 Multi-language Support
+- 📈 Advanced AI Demand Forecasting
+
+---
+
+## 👩‍💻 Developed By
+
+**Bhavani Sabhavatu**
